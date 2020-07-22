@@ -1,0 +1,46 @@
+body{
+    padding: 100px;
+}
+.welcome{
+    text-align: center;
+}
+.form-aria{
+    margin-top: 50px;
+    margin-left: 15%;
+    width: 70%;
+    padding: 50px;
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
+.after{
+    display: none;
+}
+.status{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+
+}
+
+
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status-2{
+    margin-top: 50px;
+    margin-left: 0%;
+    width: 100%;
+    padding: 50px;
+    border: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+}
